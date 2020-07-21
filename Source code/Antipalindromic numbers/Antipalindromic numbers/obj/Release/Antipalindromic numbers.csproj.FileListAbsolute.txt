@@ -1,0 +1,14 @@
+C:\Users\Kruml\source\repos\Antipalindromic numbers\Antipalindromic numbers\bin\Release\Antipalindromic numbers.exe.config
+C:\Users\Kruml\source\repos\Antipalindromic numbers\Antipalindromic numbers\bin\Release\Antipalindromic numbers.exe
+C:\Users\Kruml\source\repos\Antipalindromic numbers\Antipalindromic numbers\bin\Release\Antipalindromic numbers.pdb
+C:\Users\Kruml\source\repos\Antipalindromic numbers\Antipalindromic numbers\obj\Release\Antipalindromic numbers.csprojAssemblyReference.cache
+C:\Users\Kruml\source\repos\Antipalindromic numbers\Antipalindromic numbers\obj\Release\Antipalindromic_numbers.Form1.resources
+C:\Users\Kruml\source\repos\Antipalindromic numbers\Antipalindromic numbers\obj\Release\Antipalindromic_numbers.Properties.Resources.resources
+C:\Users\Kruml\source\repos\Antipalindromic numbers\Antipalindromic numbers\obj\Release\Antipalindromic numbers.csproj.GenerateResource.cache
+C:\Users\Kruml\source\repos\Antipalindromic numbers\Antipalindromic numbers\obj\Release\Antipalindromic numbers.csproj.CoreCompileInputs.cache
+C:\Users\Kruml\source\repos\Antipalindromic numbers\Antipalindromic numbers\obj\Release\Antipalindromic numbers.exe
+C:\Users\Kruml\source\repos\Antipalindromic numbers\Antipalindromic numbers\obj\Release\Antipalindromic numbers.pdb
+C:\Users\Kruml\source\repos\Antipalindromic numbers\Antipalindromic numbers\bin\Release\Antipalindromic numbers.exe.manifest
+C:\Users\Kruml\source\repos\Antipalindromic numbers\Antipalindromic numbers\bin\Release\Antipalindromic numbers.application
+C:\Users\Kruml\source\repos\Antipalindromic numbers\Antipalindromic numbers\obj\Release\Antipalindromic numbers.exe.manifest
+C:\Users\Kruml\source\repos\Antipalindromic numbers\Antipalindromic numbers\obj\Release\Antipalindromic numbers.application
