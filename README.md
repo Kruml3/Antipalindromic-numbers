@@ -1,5 +1,8 @@
 # Antipalindromic-numbers
 
+This application is used to calculate palindromic and antipalindromic numbers in various bases and with a variety of different properties.
+
+
 The application first needs to be installed using the executable file setup.exe. After the installation and a succesful launch, it presents its only window 
 to the user. The combo box lets the user select one of the nine modes and lists a set of parameters needed to perform the computation. All calculations are launched 
 by pressing the Start button.
